@@ -1,11 +1,17 @@
 <div align="center">
 
+<!-- Chocolate Hello Animation Boy -->
+<img src="https://media.tenor.com/UBg22U7fE5wAAAAC/hello-hii.gif" width="220" style="border-radius: 14px;" />
+
+<br><br>
+
 <img src="https://media.tenor.com/f2lG1wbn6bAAAAAC/dark-chocolate-chocolate.gif" width="260"/>
 
 # 🍫 Hey, I'm **Yordanos** (Yordi)
-### 🤎 • Code Artisan • Software Engineer Student • Book lover
+### 🤎 • Code Artisan • Software Engineer Student • Book Lover
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=3500&color=4E342E&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+Chocolate+Universe+🍫;Crafting+Sweet+Lines+of+Code+🤎;Astronomy+Dreamer+🌌;Building+Warm+%26+Smooth+UIs+☕" />
+<!-- Updated Typing Animation with readable color -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Bradley+Hand&duration=3500&color=B87333&size=26&center=true&vCenter=true&width=650&lines=Welcome+to+my+Chocolate+Universe+🍫;Crafting+Sweet+%26+Smooth+Lines+of+Code+🤎;Astronomy+Dreamer+🌌;Warm+UI+%26+Clean+Backend+Builder+☕;Book+Lover+%7C+Coffee+Vibes+%7C+Chocolate+Soul+🍮" />
 
 </div>
 
@@ -13,19 +19,19 @@
 
 ## 🤎 **Who Am I?**
 🍫 A student of **Software Engineering @ Haramaya University**  
-🍫 A deep lover of **astronomy** and the night sky  
+🍫 A deep lover of **astronomy**, stars, galaxies & cosmic mysteries 🌌  
 🍫 A creator of warm, smooth, beautifully structured code  
 🍫 Pronouns: **Yoo**  
-🍫 Fun fact: **I’m short… but my energy is EXTRA DARK & RICH 😄(am just kiddin)**  
-🍫 Chocolate + Coding = My whole vibe 🤎✨  
+🍫 Fun fact: **I’m short… but God placed the moon high so I can admire it better 😉🌙**  
+🍫 Chocolate + Coding = My whole vibe 🤎✨
 
 ---
 
-## 🍫 **My Tech Stack **
+## 🍫 **My Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-3E2723?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS3-5D4037?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-795548?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-CD7F32?style=for-the-badge&logo=javascript&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/PHP-4E342E?style=for-the-badge&logo=php&logoColor=ffffff" />
 </p>
 
@@ -38,12 +44,12 @@
 
 ---
 
-## 🍮 ** Philosophy**
-> *“even if you are short God just putted moon up there and you can see it😊😊.”* 
+## 🍮 **Philosophy**
+> *“Even if you're short, God placed the moon high so you could admire it with wonder.”* 🌙🤎
 
 ---
 
-## 📊 **My GitHub  Bar**
+## 📊 **My GitHub Chocolate Bar**
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yordi-7-cyber&show_icons=true&title_color=4E342E&icon_color=6D4C41&text_color=3E2723&bg_color=FFF3E0&border_color=6D4C41" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordi-7-cyber&layout=compact&title_color=4E342E&text_color=3E2723&bg_color=FFF3E0&border_color=6D4C41" />
@@ -51,7 +57,7 @@
 
 ---
 
-
+## 🍫 **Chocolate Mood Board**
 <p align="center">
   <img src="https://media.tenor.com/6bUeQUWLKq0AAAAC/chocolate.gif" width="300" />
   <img src="https://media.tenor.com/ZZF_9OLjnusAAAAC/chocolate-melt.gif" width="300" />
