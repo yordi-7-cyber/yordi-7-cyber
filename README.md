@@ -11,7 +11,7 @@
 
 🎓 It's **Yordanos Tesfaye** and I'm currently studying **Software Engineering** at Haramaya University Campus.
 
-💡 Passionate about building cool projects, learning new technologies, and collaborating with awesome people.
+💡 Beliver✝ & Passionate about building cool projects, learning new technologies, and collaborating with awesome people.
 
 🌱 Always exploring new stacks and best practices in web development.
 
@@ -48,6 +48,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,6 +57,26 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=yordi-7-cyber&theme=radical"/>
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordi-7-cyber&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yordi-7-cyber&theme=radical"/>
+</p>
+
+---
+
+## 🏅 GitHub Grade
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yordi-7-cyber&theme=radical"/>
+</p>
+
+<p align="center">
+  <b>My current GitHub grade: <span style="font-size:1.5em; color:#FFD700;">A</span> 🥇</b>
 </p>
 
 ---
